@@ -12,8 +12,7 @@ const app = initializeApp({
 
 export default app;
 
-/* 
-import { initializeApp } from "firebase/app";
+/* import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const app = initializeApp({
