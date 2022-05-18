@@ -11,17 +11,3 @@ const app = initializeApp({
 });
 
 export default app;
-
-/* import { initializeApp } from "firebase/app";
-
-// Your web app's Firebase configuration
-const app = initializeApp({
-  apiKey: "AIzaSyCCZMopEM4MJAt8Jh7NS1e8SrsnmOL35BM",
-  authDomain: "azur-quiz.firebaseapp.com",
-  projectId: "azur-quiz",
-  storageBucket: "azur-quiz.appspot.com",
-  messagingSenderId: "379010726279",
-  appId: "1:379010726279:web:f6b3ee0a347cd1a145fb22",
-});
-
-export default app; */
