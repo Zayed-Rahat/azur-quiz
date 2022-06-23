@@ -8,7 +8,7 @@ export default function ProgressBar({ next, prev, submit, progress }) {
         <span className="material-icons-outlined"> arrow_back </span>
       </div>
       <div className={classes.rangeArea}>
-        <div className={classes.tooltip}>{progress}% Cimplete!</div>
+        <div className={classes.tooltip}>{progress}% Compete!</div>
         <div className={classes.rangeBody}>
           <div
             className={classes.progress}
